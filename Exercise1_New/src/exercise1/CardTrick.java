@@ -72,7 +72,7 @@ public class CardTrick {
      * I'm Done!
      * modifier Jivesh Malhotra
      */
-    private static void printInfo() 
+    private static void printInfo()      
     {
         
         System.out.println();
